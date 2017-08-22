@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustCause3-SaveBackup", "JustCause3-SaveBackup.csproj", "{5249A7E8-59FB-43EC-9344-B10F4F40983F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5249A7E8-59FB-43EC-9344-B10F4F40983F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5249A7E8-59FB-43EC-9344-B10F4F40983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5249A7E8-59FB-43EC-9344-B10F4F40983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5249A7E8-59FB-43EC-9344-B10F4F40983F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
